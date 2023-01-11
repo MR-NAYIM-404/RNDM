@@ -64,7 +64,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40DEVIL?style=for-the-badge&logo=instagram)](https://www.instagram.com/devil.najmul)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/N41M01)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/DEVIL.NAJMUL)
-[![Github](https://img.shields.io/badge/Github-It's Najmulgreen?style=for-the-badge&logo=github)](https://github.com/N41M01)
+[![Github](https://img.shields.io/badge/Github-DEVIL-green?style=for-the-badge&logo=github)](https://github.com/N41M01)
 
 <h3 align="left">TROPHY:</h3>
 
